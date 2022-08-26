@@ -1,5 +1,5 @@
 {
-    "name": "UniVisualStudioCodeOpener",
+    "name": "Kogane.OpenInVisualStudioCodeMenuItem",
     "references": [],
     "includePlatforms": [
         "Editor"
