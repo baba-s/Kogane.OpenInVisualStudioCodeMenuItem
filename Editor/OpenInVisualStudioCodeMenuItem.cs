@@ -18,7 +18,7 @@ namespace Kogane.Internal
             return assetGUIDs is { Length: > 0 };
         }
 
-        [MenuItem( ITEM_NAME )]
+        [MenuItem( ITEM_NAME, false, 1552434739 )]
         private static void Open()
         {
             var assetGUIDs = Selection.assetGUIDs;
